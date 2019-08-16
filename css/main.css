@@ -76,7 +76,7 @@
 
 
 
-.blind{font-size: 0; position: absolute; left: -9999px;}
+.skip{font-size: 0; position: absolute; left: -9999px;}
 /*  General CSS*/
 .wrapper{
 	width: 1200px;
